@@ -1,2 +1,2 @@
 # PSMS
-Molecular Subtypes of Psoriatic Patiens
+Molecular Subtypes of Psoriasis
